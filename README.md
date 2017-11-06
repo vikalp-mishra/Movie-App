@@ -1,2 +1,2 @@
 # Movie-App
-Movie App with the Movie Dp api support.
+Movie App with the Movie DB api support.
